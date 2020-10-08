@@ -1,2 +1,6 @@
 it's the second demo for git!
+<<<<<<< HEAD
 change in master!
+=======
+change in mybranch
+>>>>>>> mybranch
